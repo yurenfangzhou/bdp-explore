@@ -1,5 +1,5 @@
 # 总项目 https://github.com/wlhbdp/bdp-ecology
-# 7 知识探索 bdp-explore
+# 7 大数据生态解决方案知识探索 bdp-explore
 
 7.1 应用服务
 
